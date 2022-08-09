@@ -28,7 +28,7 @@ plt.style.use('ggplot')
 
 """# Loading Data"""
 
-df = pd.read_csv("/content/drive/MyDrive/Data Analyst - Commercial/data_analysis_task_q1.csv")
+df = pd.read_csv("task_q1.csv")
 
 df
 
